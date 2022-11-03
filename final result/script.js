@@ -6,6 +6,7 @@ let perdArr = [];
 let poisArr = [];
 let bomArr = [];
 
+
 function generate(a, b) {
     for (let i = 0; i < a; i++) {
         matrix.push([]);
